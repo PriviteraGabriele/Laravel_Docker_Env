@@ -5,7 +5,7 @@ Creare un nuovo progetto Laravel:
 
   IMPORTANTE: Bisogna modificare nel file .env in src il nome del db, nome utente e password di mysql e cambiare anche db_host in mysql
 
-Startare i conteiner di nginx, php e mysql:
+Startare i conteiner di nginx, php, mysql e phpmyadmin:
   - docker-compose up -d --build server
 
 Spegnere i container:
