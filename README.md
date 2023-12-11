@@ -13,3 +13,8 @@ Spegnere i container:
 
 Comandi per usare artisan:
   - docker-compose run --rm artisan ...   --> es. Per la migrate: docker-compose run --rm artisan migrate
+
+Accesso DB da phpmyadmin:
+  - Nome Database: mysql  (Il nome del conteiner del nostro db)
+  - Nome Utente: root     (Si può modificare nel file mysql.env)
+  - Password: root        (Si può modificare nel file mysql.env)
