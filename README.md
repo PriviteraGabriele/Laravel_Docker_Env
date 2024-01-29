@@ -1,4 +1,4 @@
-# Laravel_Docker_MaxVersion
+# Laravel_Docker_Env
 
 Creare un nuovo progetto Laravel:
   - docker-compose run --rm composer create-project --prefer-dist laravel/laravel .
